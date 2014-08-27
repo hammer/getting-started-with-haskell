@@ -50,4 +50,4 @@ There are many resources for learning haskell on the web, but few of them focus 
 
 * [Scalable Program Architectures](https://news.ycombinator.com/item?id=7586812)
 * [iHaskell](http://gibiansky.github.io/IHaskell/)
-
+* [stylish-haskell](https://github.com/jaspervdj/stylish-haskell)
